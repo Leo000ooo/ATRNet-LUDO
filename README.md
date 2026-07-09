@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Code-Python%203.8+-3776ab?style=flat-square)]()
 
-<img src="./assets/teaser.jpg" width="800px">
+<img src="./assets/dataset_princeple.png" width="800px">
 
 </div>
 
