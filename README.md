@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Code-Python%203.8+-3776ab?style=flat-square)]()
 
-<img src="./assets/dataset_princeple.png" width="90%">
+<img src="./assets/dataset_princeple.png" width="95%">
 
 </div>
 
@@ -21,15 +21,15 @@
 
 ## 📊 Dataset Overview
 
-<img src="./assets/overview.png" width="90%">
+<img src="./assets/overview.png" width="95%">
 
 ---
 
 ## 🖼️ Visualization Examples
 
 <div align="center">
-<img src="./assets/sample1.jpg" width="32%"> <img src="./assets/sample2.jpg" width="32%"> <img src="./assets/sample3.jpg" width="32%">
-<p>Multi-view panoramic samples, occluded target cases, and local patch examples</p>
+<img src="./assets/vis_demo.jpg" width="95%">
+<p>Visualization of panoramic aerial images, local target patches and annotation files from the ATRNet-LUDO dataset</p>
 </div>
 
 ---
