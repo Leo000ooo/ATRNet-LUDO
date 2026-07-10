@@ -39,8 +39,19 @@
 ### Download Links
 | Data Split | Size | Link |
 |------------|------|------|
-| Full dataset (all panoramas + patches) | ~XX GB | [Zenodo](https://zenodo.org/doi/xxxx) |
-| Mini subset (for quick validation) | ~XX GB | [Google Drive / OneDrive]() |
-| Evaluation code & benchmark toolkit | - | [GitHub](./code) |
+| Full dataset (all panoramas + patches) | ~3 TB | (coming soon) |
+| Mini subset (for quick validation) | ~3 GB | [Google Drive]() |
+| Evaluation code & benchmark toolkit | - | [GitHub](coming soon) |
 
 ### File Structure
+ATRNet-LUDO/
+├── 1/ # 121,000 multi-view panoramic aerial images
+│ ├── scene_001/ # Each folder corresponds to one real-world scenario
+│ │ ├── img_00001.jpg
+│ │ └── ...
+│ ├── scene_002/
+│ └── ...
+├── 2/
+│ ...
+├── 10/
+├── k/
