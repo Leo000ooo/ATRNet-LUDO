@@ -21,7 +21,7 @@
 
 ## 📊 Dataset Overview
 
-<img src="./assets/dataset_princeple.png" width="90%">
+<img src="./assets/overview.png" width="90%">
 
 ---
 
