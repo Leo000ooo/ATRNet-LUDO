@@ -28,7 +28,7 @@
 ## 🖼️ Visualization Examples
 
 <div align="center">
-<img src="./assets/vis_demo.jpg" width="95%">
+<img src="./assets/vis_demo.png" width="95%">
 <p>Visualization of panoramic aerial images, local target patches and annotation files from the ATRNet-LUDO dataset</p>
 </div>
 
