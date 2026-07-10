@@ -40,23 +40,13 @@
 | Data Split | Size | Link |
 |------------|------|------|
 | Full dataset (all panoramas + patches) | ~3 TB | (coming soon) |
-| Mini subset (for quick validation) | ~3 GB | [Google Drive]() |
+| Mini subset (for quick validation) | ~3 GB | [Google Drive](https://drive.google.com/drive/folders/1hPIJNV6Q_jGbVKciMY9plIyz51mMW85l?usp=sharing) |
 | Evaluation code & benchmark toolkit | - | [GitHub](coming soon) |
 
 ### File Structure
 <details>
 <summary>Click to expand full directory tree</summary>
-ATRNet-LUDO/
-  ├── 1/ # 121,000 multi-view panoramic aerial images
-  │├── scene_001/ # Each folder corresponds to one real-world scenario
-  ││├── img_00001.jpg
-  ││└── ...
-  │├── scene_002/
-  │└── ...
-  ├── 2/
-  │...
-  ├── 10/
-  ├── k/
+
 </details>
 
 ### Folder Explanation
