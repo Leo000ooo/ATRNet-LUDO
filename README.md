@@ -44,6 +44,8 @@
 | Evaluation code & benchmark toolkit | - | [GitHub](coming soon) |
 
 ### File Structure
+<details>
+<summary>Click to expand full directory tree</summary>
 ATRNet-LUDO/
   ├── 1/ # 121,000 multi-view panoramic aerial images
   │ ├── scene_001/ # Each folder corresponds to one real-world scenario
@@ -55,3 +57,11 @@ ATRNet-LUDO/
   │ ...
   ├── 10/
   ├── k/
+</details>
+
+### Folder Explanation
+1. `panoramic/`: Full multi-angle aerial panoramic images collected from 40 diverse traffic scenes.
+2. `patches/`: Cropped single-object patches extracted for occlusion-aware detection research.
+3. `annotations/`: Label files including bounding boxes, occlusion flags and category IDs.
+4. `splits/`: Standard data division files for consistent benchmark evaluation.
+
