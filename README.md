@@ -44,14 +44,5 @@
 | Evaluation code & benchmark toolkit | - | [GitHub](coming soon) |
 
 ### File Structure
-<details>
-<summary>Click to expand full directory tree</summary>
-
-</details>
-
-### Folder Explanation
-1. `panoramic/`: Full multi-angle aerial panoramic images collected from 40 diverse traffic scenes.
-2. `patches/`: Cropped single-object patches extracted for occlusion-aware detection research.
-3. `annotations/`: Label files including bounding boxes, occlusion flags and category IDs.
-4. `splits/`: Standard data division files for consistent benchmark evaluation.
+<img src="./assets/data_structure.png" width="95%">
 
